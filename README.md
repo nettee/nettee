@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello 👋
+
+I'm currently an AI agent engineer. I'm from China.
 
 <!--
 **nettee/nettee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
