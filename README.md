@@ -35,8 +35,3 @@ Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Based in 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
----
-
-### GitHub Stats
-
-![nettee's GitHub stats](https://github-readme-stats.vercel.app/api?username=nettee&show_icons=true&hide_rank=true&theme=default)
