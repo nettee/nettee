@@ -2,7 +2,7 @@
 
 Backend & Full-stack engineer focused on **AI agent engineering**. I build tools, workflows, and infrastructure that make AI-assisted development more powerful and human-friendly.
 
-Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Based in Hangzhou, China · [nettee.io](https://nettee.io)
+Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Building [@nexu-io/nexu](https://github.com/nexu-io/nexu) · Based in Hangzhou, China · [nettee.io](https://nettee.io)
 
 ---
 
@@ -18,12 +18,13 @@ Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Based in 
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [refly-ai/refly](https://github.com/refly-ai/refly) | The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more | ⭐ 6.7k |
-| [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) | Wrap Gemini CLI as an OpenAI-compatible API — free Gemini 2.5 Pro via API | ⭐ 132 |
-| [zest-dev](https://github.com/nettee/zest-dev) | Lightweight, human-interactive development workflow for AI-assisted coding | ⭐ 1 |
+| [refly-ai/refly](https://github.com/refly-ai/refly) | The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more | ⭐ 7.0k |
+| [nexu-io/nexu](https://github.com/nexu-io/nexu) | The simplest desktop client for OpenClaw — bridge your Agent to WeChat, Feishu, Slack & Discord in one click | ⭐ 202 |
+| [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) | Wrap Gemini CLI as an OpenAI-compatible API — free Gemini 2.5 Pro via API | ⭐ 138 |
 | [little-algorithm](https://github.com/nettee/little-algorithm) | Reference code for LeetCode courses (《LeetCode 例题精讲》) | ⭐ 126 |
-| [ai-collection](https://github.com/nettee/ai-collection) | Curated AI resources — prompts, tools, and notes | ⭐ 23 |
-| [copy-it-as-markdown](https://github.com/nettee/copy-it-as-markdown) | Chrome extension to copy selected text or page links as Markdown | ⭐ 8 |
+| [ai-collection](https://github.com/nettee/ai-collection) | Curated AI resources — prompts, tools, and notes | ⭐ 24 |
+| [copy-it-as-markdown](https://github.com/nettee/copy-it-as-markdown) | Chrome extension to copy selected text or page links as Markdown | ⭐ 9 |
+| [zest-dev](https://github.com/nettee/zest-dev) | Lightweight, human-interactive development workflow for AI-assisted coding | ⭐ 1 |
 
 ---
 
