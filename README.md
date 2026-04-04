@@ -18,9 +18,9 @@ Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Building 
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [refly-ai/refly](https://github.com/refly-ai/refly) | The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more | ⭐ 7.0k |
-| [nexu-io/nexu](https://github.com/nexu-io/nexu) | The simplest desktop client for OpenClaw — bridge your Agent to WeChat, Feishu, Slack & Discord in one click | ⭐ 202 |
-| [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) | Wrap Gemini CLI as an OpenAI-compatible API — free Gemini 2.5 Pro via API | ⭐ 138 |
+| [refly-ai/refly](https://github.com/refly-ai/refly) | The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more | ⭐ 7.2k |
+| [nexu-io/nexu](https://github.com/nexu-io/nexu) | The simplest desktop client for OpenClaw — bridge your Agent to WeChat, Feishu, Slack & Discord in one click | ⭐ 2.1k |
+| [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) | Wrap Gemini CLI as an OpenAI-compatible API — free Gemini 2.5 Pro via API | ⭐ 140 |
 | [little-algorithm](https://github.com/nettee/little-algorithm) | Reference code for LeetCode courses (《LeetCode 例题精讲》) | ⭐ 126 |
 | [ai-collection](https://github.com/nettee/ai-collection) | Curated AI resources — prompts, tools, and notes | ⭐ 24 |
 | [copy-it-as-markdown](https://github.com/nettee/copy-it-as-markdown) | Chrome extension to copy selected text or page links as Markdown | ⭐ 9 |
@@ -35,4 +35,3 @@ Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Building 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
