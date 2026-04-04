@@ -22,9 +22,8 @@ Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Building 
 | [nexu-io/nexu](https://github.com/nexu-io/nexu) | The simplest desktop client for OpenClaw — bridge your Agent to WeChat, Feishu, Slack & Discord in one click | ⭐ 2.1k |
 | [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) | Wrap Gemini CLI as an OpenAI-compatible API — free Gemini 2.5 Pro via API | ⭐ 140 |
 | [little-algorithm](https://github.com/nettee/little-algorithm) | Reference code for LeetCode courses (《LeetCode 例题精讲》) | ⭐ 126 |
+| [DepView](https://github.com/nettee/DepView) | View code dependencies in a Java project | ⭐ 38 |
 | [ai-collection](https://github.com/nettee/ai-collection) | Curated AI resources — prompts, tools, and notes | ⭐ 24 |
-| [copy-it-as-markdown](https://github.com/nettee/copy-it-as-markdown) | Chrome extension to copy selected text or page links as Markdown | ⭐ 9 |
-| [zest-dev](https://github.com/nettee/zest-dev) | Lightweight, human-interactive development workflow for AI-assisted coding | ⭐ 1 |
 
 ---
 
