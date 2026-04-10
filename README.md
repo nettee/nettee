@@ -19,10 +19,10 @@ Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Building 
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [refly-ai/refly](https://github.com/refly-ai/refly) | The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more | ⭐ 7.2k |
-| [nexu-io/nexu](https://github.com/nexu-io/nexu) | The simplest desktop client for OpenClaw — bridge your Agent to WeChat, Feishu, Slack & Discord in one click | ⭐ 2.1k |
+| [nexu-io/nexu](https://github.com/nexu-io/nexu) | The simplest desktop client for OpenClaw — bridge your Agent to WeChat, Feishu, Slack & Discord in one click | ⭐ 2.4k |
 | [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) | Wrap Gemini CLI as an OpenAI-compatible API — free Gemini 2.5 Pro via API | ⭐ 140 |
 | [little-algorithm](https://github.com/nettee/little-algorithm) | Course content and reference code for《LeetCode by Example》 | ⭐ 126 |
-| [DepView](https://github.com/nettee/DepView) | View code dependencies in a Java project | ⭐ 38 |
+| [DepView](https://github.com/nettee/DepView) | View code dependencies in a Java project | ⭐ 39 |
 | [ai-collection](https://github.com/nettee/ai-collection) | Curated AI resources — prompts, tools, and notes | ⭐ 24 |
 
 ---
