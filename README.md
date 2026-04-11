@@ -27,6 +27,14 @@ Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Building 
 
 ---
 
+### External Open Source Contributions
+
+- 2026 — [alvinunreal/oh-my-opencode-slim#254](https://github.com/alvinunreal/oh-my-opencode-slim/pull/254) — fix auto-update Bun install cwd
+- 2026 — [codervisor/lean-spec#139](https://github.com/codervisor/lean-spec/pull/139) — implement template loading in CLI create command
+- 2025 — [guangzhengli/nextjs-blog-template#4](https://github.com/guangzhengli/nextjs-blog-template/pull/4) — support custom social links
+
+---
+
 ### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
