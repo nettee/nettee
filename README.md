@@ -2,7 +2,7 @@
 
 Backend & Full-stack engineer focused on **AI agent engineering**. I build tools, workflows, and infrastructure that make AI-assisted development more powerful and human-friendly.
 
-Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Building [@nexu-io/nexu](https://github.com/nexu-io/nexu) · Based in Hangzhou, China · [nettee.io](https://nettee.io)
+Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Building [@nexu-io/open-design](https://github.com/nexu-io/open-design) and [@nexu-io/nexu](https://github.com/nexu-io/nexu) · Based in Hangzhou, China · [nettee.io](https://nettee.io)
 
 ---
 
@@ -18,8 +18,8 @@ Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Building 
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [refly-ai/refly](https://github.com/refly-ai/refly) | The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more | ⭐ 7.3k |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | Local-first, open-source alternative to Claude Design — design skills, brand-grade systems, sandboxed preview and HTML/PDF/PPTX export | ⭐ 8.4k |
+| [refly-ai/refly](https://github.com/refly-ai/refly) | The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more | ⭐ 7.3k |
 | [nexu-io/nexu](https://github.com/nexu-io/nexu) | The simplest desktop client for OpenClaw — bridge your Agent to WeChat, Feishu, Slack & Discord in one click | ⭐ 2.8k |
 | [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) | Wrap Gemini CLI as an OpenAI-compatible API — free Gemini Pro via API | ⭐ 144 |
 | [little-algorithm](https://github.com/nettee/little-algorithm) | Course content and reference code for《LeetCode by Example》 | ⭐ 126 |
