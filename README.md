@@ -18,9 +18,9 @@ Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Building 
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | Local-first, open-source alternative to Claude Design — design skills, brand-grade systems, sandboxed preview and HTML/PDF/PPTX export | ⭐ 13.8k |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | Local-first, open-source alternative to Claude Design — design skills, brand-grade systems, sandboxed preview and HTML/PDF/PPTX export | ⭐ 25.8k |
 | [refly-ai/refly](https://github.com/refly-ai/refly) | The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more | ⭐ 7.3k |
-| [nexu-io/nexu](https://github.com/nexu-io/nexu) | The simplest desktop client for OpenClaw — bridge your Agent to WeChat, Feishu, Slack & Discord in one click | ⭐ 2.8k |
+| [nexu-io/nexu](https://github.com/nexu-io/nexu) | The simplest desktop client for OpenClaw — bridge your Agent to WeChat, Feishu, Slack & Discord in one click | ⭐ 2.9k |
 | [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) | Wrap Gemini CLI as an OpenAI-compatible API — free Gemini Pro via API | ⭐ 143 |
 | [little-algorithm](https://github.com/nettee/little-algorithm) | Course content and reference code for《LeetCode by Example》 | ⭐ 126 |
 | [DepView](https://github.com/nettee/DepView) | View code dependencies in a Java project | ⭐ 39 |
