@@ -2,7 +2,7 @@
 
 Backend & Full-stack engineer focused on **AI agent engineering**. I build tools, workflows, and infrastructure that make AI-assisted development more powerful and human-friendly.
 
-Open-source contributor at [@refly-ai](https://github.com/refly-ai) · Building [@nexu-io/open-design](https://github.com/nexu-io/open-design) and [@nexu-io/nexu](https://github.com/nexu-io/nexu) · Based in Hangzhou, China · [nettee.io](https://nettee.io)
+Open-source maintainer of [Open Design](https://github.com/nexu-io/open-design) · Based in Hangzhou, China · [nettee.io](https://nettee.io)
 
 ---
 
