@@ -18,7 +18,7 @@ Open-source maintainer of [Open Design](https://github.com/nexu-io/open-design) 
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | Local-first, open-source alternative to Claude Design — design skills, brand-grade systems, sandboxed preview and HTML/PDF/PPTX export | ⭐ 63.5k |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | Local-first, open-source alternative to Claude Design — design skills, brand-grade systems, sandboxed preview and HTML/PDF/PPTX export | ⭐ 67.5k |
 | [refly-ai/refly](https://github.com/refly-ai/refly) | The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more | ⭐ 7.4k |
 | [nexu-io/nexu](https://github.com/nexu-io/nexu) | The simplest desktop client for OpenClaw — bridge your Agent to WeChat, Feishu, Slack & Discord in one click | ⭐ 3.1k |
 
