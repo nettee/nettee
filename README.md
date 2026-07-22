@@ -8,9 +8,7 @@ Open-source maintainer of [Open Design](https://github.com/nexu-io/open-design) 
 
 ### What I'm working on
 
-- **Open Design** — agent-native design skills, brand-grade systems, sandboxed previews, and export pipelines ([nexu-io/open-design](https://github.com/nexu-io/open-design))
-- **Nexu / OpenClaw ecosystem** — desktop runtimes, multi-channel agent bridges, cloud credits, billing, rewards, and gateway infrastructure ([nexu-io/nexu](https://github.com/nexu-io/nexu))
-- **AI-native dev workflows** — spec-driven, human-interactive development patterns and thick skills ([zest-dev](https://github.com/nettee/zest-dev), [lean-spec](https://github.com/nettee/lean-spec))
+[Open Design](https://github.com/nexu-io/open-design) is a local-first, open-source alternative to Claude Design. It brings agent-native design skills, brand-grade design systems, sandboxed previews, and one-click HTML, PDF, and PPTX exports into a single workflow.
 
 ---
 
@@ -29,7 +27,6 @@ Open-source maintainer of [Open Design](https://github.com/nexu-io/open-design) 
 | [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) | Wrap Gemini CLI as an OpenAI-compatible API — free Gemini Pro via API | ⭐ 147 |
 | [little-algorithm](https://github.com/nettee/little-algorithm) | Course content and reference code for《LeetCode by Example》 | ⭐ 126 |
 | [DepView](https://github.com/nettee/DepView) | View code dependencies in a Java project | ⭐ 39 |
-| [ai-collection](https://github.com/nettee/ai-collection) | Curated AI resources — prompts, tools, and notes | ⭐ 24 |
 
 ---
 
