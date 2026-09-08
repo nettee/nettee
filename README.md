@@ -31,8 +31,8 @@ Open-source maintainer of [Open Design](https://github.com/nexu-io/open-design) 
 
 ### External Open Source Contributions
 
+- [maximhq/bifrost](https://github.com/maximhq/bifrost) • Fast AI gateway for modern applications • [#6881](https://github.com/maximhq/bifrost/pull/6881), [#5102](https://github.com/maximhq/bifrost/pull/5102)
 - [oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) • A slimmed-down OpenCode configuration inspired by oh-my-zsh • [#861](https://github.com/alvinunreal/oh-my-opencode-slim/pull/861), [#254](https://github.com/alvinunreal/oh-my-opencode-slim/pull/254)
-- [maximhq/bifrost](https://github.com/maximhq/bifrost) • Fast AI gateway for modern applications • [#5102](https://github.com/maximhq/bifrost/pull/5102)
 - [open-ralph-wiggum](https://github.com/Th0rgal/open-ralph-wiggum) • Autonomous agentic loop for AI coding agents • [#81](https://github.com/Th0rgal/open-ralph-wiggum/pull/81)
 - [lean-spec](https://github.com/codervisor/lean-spec) • Spec-driven development tools for AI-assisted coding • [#139](https://github.com/codervisor/lean-spec/pull/139)
 - [nextjs-blog-template](https://github.com/guangzhengli/nextjs-blog-template) • A Next.js blog template for personal websites • [#4](https://github.com/guangzhengli/nextjs-blog-template/pull/4)
