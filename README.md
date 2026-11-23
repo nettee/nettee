@@ -31,6 +31,7 @@ Open-source maintainer of [Open Design](https://github.com/nexu-io/open-design) 
 
 ### External Open Source Contributions
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) • GUI for coding agents • [#41484](https://github.com/pingdotgg/t3code/pull/41484)
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) • Fast AI gateway for modern applications • [#7403](https://github.com/maximhq/bifrost/pull/7403), [#6881](https://github.com/maximhq/bifrost/pull/6881), [#5102](https://github.com/maximhq/bifrost/pull/5102)
 - [oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) • A slimmed-down OpenCode configuration inspired by oh-my-zsh • [#861](https://github.com/alvinunreal/oh-my-opencode-slim/pull/861), [#254](https://github.com/alvinunreal/oh-my-opencode-slim/pull/254)
 - [open-ralph-wiggum](https://github.com/Th0rgal/open-ralph-wiggum) • Autonomous agentic loop for AI coding agents • [#81](https://github.com/Th0rgal/open-ralph-wiggum/pull/81)
